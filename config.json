@@ -1,0 +1,10 @@
+{
+	"42header.username": "jsauron",
+		"42header.email": "jsauron@student.42.fr",
+		"editor.renderWhitespace": "boundary",
+		"editor.insertSpaces": false,
+		"editor.rulers": [
+			80 
+		],
+		"files.insertFinalNewline": true
+}
