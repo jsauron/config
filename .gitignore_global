@@ -1,0 +1,31 @@
+# OS generated files #
+######################
+.DS_Store
+#put in HOME
+#command to apply : "git config --global core.excludesfile ~/.gitignore_global"
+
+.DS_Store?
+._*
+# Visual Studio #
+######################
+.vscode
+# Idea #
+######################
+.idea
+# Vi #
+######################
+.gch
+# Compiled source #
+######################
+*.o
+*.d
+*.a
+# Binary #
+######################
+a.out
+# Library #
+######################
+*.so
+# Log #
+######################
+*.log
